@@ -1,1 +1,2 @@
 One function of an operating system is to manage a computer's resources. For example, an operating system manages the memory use of a computer. It does this by keeping track of which bytes are in use and which ones are not.
+Another function of an operating system is to create a user interface, A user interface is how a user controls software and hardware. This makes it easy and efficient for a user to utilize a piece of software or hardware.
