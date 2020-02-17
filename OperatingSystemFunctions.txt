@@ -1,0 +1,1 @@
+One function of an operating system is to manage a computer's resources. For example, an operating system manages the memory use of a computer. It does this by keeping track of which bytes are in use and which ones are not.
